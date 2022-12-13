@@ -5,5 +5,5 @@
 - I’m currently studying Business IT Management (AI Specialization) at the British Columbia Institute of Technology
 
 - My goal within 5 years is to become a product manager within the tech industry so I can build cool stuff with cool people!
-- The first project that made me interested in coding and tech was when I built a Laser People/Occupancy Counter for my engineering class!
-- I realized that I enjoyed the intersection between working with tech and people, and making cool things, so that's why I chose product management :)
+- The first project that made me interested in coding and tech was when I built a covidsafe Laser People/Occupancy Counter for my engineering class, out of breadboards, arduino, and microcontrollers!
+- I realized that I enjoyed the intersection between working with tech and people, and making awesome things, so that's why I chose product management :)
